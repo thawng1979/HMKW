@@ -61,7 +61,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "pol.hsumyat.gleeze.com",
+                            "address": "162.159.46.101",
                             "port": 443,
                             "users": [
                                 {
@@ -259,7 +259,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "www.speedtest.net",
+                            "address": "162.159.48.235",
                             "port": 443,
                             "users": [
                                 {
@@ -450,7 +450,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.66.44.139",
+                            "address": "104.19.206.201",
                             "port": 443,
                             "users": [
                                 {
@@ -641,7 +641,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.66.47.117",
+                            "address": "104.19.207.121",
                             "port": 443,
                             "users": [
                                 {
@@ -832,7 +832,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "[2606:4700:310c::ac42:2f75]",
+                            "address": "104.19.216.30",
                             "port": 443,
                             "users": [
                                 {
@@ -1023,7 +1023,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "[2606:4700:310c::ac42:2c8b]",
+                            "address": "[2606:0c::ac42:2c8b]",
                             "port": 443,
                             "users": [
                                 {
