@@ -222,7 +222,7 @@
         {
             "name": "💦 6 - VLESS - IPv6 : 443",
             "type": "vless",
-            "server": "2606:4700:3:ac42:2f75",
+            "server": "162.159.91.66",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
