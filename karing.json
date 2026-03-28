@@ -54,7 +54,7 @@
         {
             "tag": "💦 1 - VLESS - Domain : 443",
             "type": "vless",
-            "server": "pol.hsumyat.gleeze.com",
+            "server": "162.159.46.101",
             "server_port": 443,
             "tcp_fast_open": false,
             "uuid": "bb824158-be83-499c-a01e-80c6911601a9",
@@ -86,7 +86,7 @@
         {
             "tag": "💦 2 - VLESS - Domain : 443",
             "type": "vless",
-            "server": "www.speedtest.net",
+            "server": "162.159.48.235",
             "server_port": 443,
             "tcp_fast_open": false,
             "uuid": "bb824158-be83-499c-a01e-80c6911601a9",
@@ -118,7 +118,7 @@
         {
             "tag": "💦 3 - VLESS - IPv4 : 443",
             "type": "vless",
-            "server": "172.66.47.117",
+            "server": "162.159.48.235",
             "server_port": 443,
             "tcp_fast_open": false,
             "uuid": "bb824158-be83-499c-a01e-80c6911601a9",
@@ -150,7 +150,7 @@
         {
             "tag": "💦 4 - VLESS - IPv4 : 443",
             "type": "vless",
-            "server": "172.66.44.139",
+            "server": "104.19.207.121",
             "server_port": 443,
             "tcp_fast_open": false,
             "uuid": "bb824158-be83-499c-a01e-80c6911601a9",
@@ -182,7 +182,7 @@
         {
             "tag": "💦 5 - VLESS - IPv6 : 443",
             "type": "vless",
-            "server": "[2606:4700:310c::ac42:2c8b]",
+            "server": "104.19.207.121",
             "server_port": 443,
             "tcp_fast_open": false,
             "uuid": "bb824158-be83-499c-a01e-80c6911601a9",
@@ -214,7 +214,7 @@
         {
             "tag": "💦 6 - VLESS - IPv6 : 443",
             "type": "vless",
-            "server": "[2606:4700:310c::ac42:2f75]",
+            "server": "[2606:4700c::ac42:2f75]",
             "server_port": 443,
             "tcp_fast_open": false,
             "uuid": "bb824158-be83-499c-a01e-80c6911601a9",
