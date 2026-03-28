@@ -214,7 +214,7 @@
         {
             "tag": "💦 6 - VLESS - IPv6 : 443",
             "type": "vless",
-            "server": "[2606:4700c::ac42:2f75]",
+            "server": "162.159.91.66",
             "server_port": 443,
             "tcp_fast_open": false,
             "uuid": "bb824158-be83-499c-a01e-80c6911601a9",
