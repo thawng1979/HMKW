@@ -1023,7 +1023,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "[2606:0c::ac42:2c8b]",
+                            "address": "162.159.91.66",
                             "port": 443,
                             "users": [
                                 {
@@ -1222,7 +1222,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "pol.hsumyat.gleeze.com",
+                            "address": "162.159.35.159",
                             "port": 443,
                             "users": [
                                 {
